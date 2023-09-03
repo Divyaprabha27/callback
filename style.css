@@ -1,0 +1,7 @@
+.timing h1 {
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    display: flex;
+    font-size: 45px;
+}
